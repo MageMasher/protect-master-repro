@@ -1,1 +1,3 @@
 # protect-master-repro
+
+foo
